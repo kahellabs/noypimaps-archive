@@ -1,0 +1,6 @@
+env/
+tiles/
+*.pyc
+sample_run/
+*.sqlite3
+sample_data/
