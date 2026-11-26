@@ -5,6 +5,7 @@
 | Language | Vue |
 | Last active | 2023-01-05 |
 | Original location | `github.com/noypimaps/covideffortsph` (removed from the organization) |
+| Archived issues | See [`ISSUES.md`](./ISSUES.md) |
 | Imported | Full git history, under `covideffortsph/` in this archive |
 
 ---

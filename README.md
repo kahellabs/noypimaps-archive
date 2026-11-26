@@ -22,4 +22,6 @@ The original repositories have been removed from the organization; this reposito
 
 * Git history was merged with `git subtree`, so `git log -- <repo>/` shows the original commits.
 * Original per-repository READMEs are kept in each directory as `README.original.md`; the `README.md` above it is a generated summary that includes the original text.
+* Human-written GitHub issues were saved to `ISSUES.md` in the affected directories; pull requests were not archived.
+* Only each repository's default branch (`master`) was imported. Unmerged Dependabot branches and the `gh-pages` build branch were not.
 * `noypimaps.github.io` was a GitHub Pages site; its sources are archived here, but the Pages site itself is not published from this repository.

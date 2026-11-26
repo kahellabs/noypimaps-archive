@@ -7,6 +7,7 @@ A django tiling application which creates a tms service from uploaded rasters.
 | Language | Python |
 | Last active | 2017-01-07 |
 | Original location | `github.com/noypimaps/tilerservice` (removed from the organization) |
+| Archived issues | See [`ISSUES.md`](./ISSUES.md) |
 | Imported | Full git history, under `tilerservice/` in this archive |
 
 ---
