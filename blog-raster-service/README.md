@@ -1,3 +1,18 @@
+# blog-raster-service
+
+the repository of the blog create a raster service tutorial
+
+| | |
+|---|---|
+| Language | Python |
+| Last active | 2016-12-15 |
+| Original location | `github.com/noypimaps/blog-raster-service` (removed from the organization) |
+| Imported | Full git history, under `blog-raster-service/` in this archive |
+
+---
+
+## Original README
+
 ## Sample Raster Service Setup Guide
 
 The following application setup guide has only been tested on Ubuntu 16.04 LTS. 
@@ -22,4 +37,4 @@ The following application setup guide has only been tested on Ubuntu 16.04 LTS.
         pip install numpy flask
         pip install pygdal
 
-Finally, we have installed the necessary libraries to build our service. On the next post, we will be covering the API development of our service. 
+Finally, we have installed the necessary libraries to build our service. On the next post, we will be covering the API development of our service.

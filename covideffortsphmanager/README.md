@@ -1,3 +1,16 @@
+# covideffortsphmanager
+
+| | |
+|---|---|
+| Language | Python |
+| Last active | 2021-09-22 |
+| Original location | `github.com/noypimaps/covideffortsphmanager` (removed from the organization) |
+| Imported | Full git history, under `covideffortsphmanager/` in this archive |
+
+---
+
+## Original README
+
 # Covid 19 Relief Efforts Data Manager
 Data Management system for Covid 19 relief efforts. This is an ongoing development.
 
@@ -49,4 +62,3 @@ http://localhost:8000/pricing-details/?org=<org-id>&page_size=<page-size>&page=<
 ```
 http://localhost:8000/itemized-needs/?org=<org-id>&page_size=<page-size>&page=<page-number>
 ```
-

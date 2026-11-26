@@ -1,3 +1,18 @@
+# tilerservice
+
+A django tiling application which creates a tms service from uploaded rasters.
+
+| | |
+|---|---|
+| Language | Python |
+| Last active | 2017-01-07 |
+| Original location | `github.com/noypimaps/tilerservice` (removed from the organization) |
+| Imported | Full git history, under `tilerservice/` in this archive |
+
+---
+
+## Original README
+
 # Django Tiler Service
 A django based application which generates a map tiles using `gdal2tiles.py`. Requires a *TIFF* file as input when generating tiles. 
 

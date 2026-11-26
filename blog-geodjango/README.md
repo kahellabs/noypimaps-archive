@@ -1,3 +1,18 @@
+# blog-geodjango
+
+the code repository of the blog tutorial on setting up geodjango
+
+| | |
+|---|---|
+| Language | Python |
+| Last active | 2016-12-24 |
+| Original location | `github.com/noypimaps/blog-geodjango` (removed from the organization) |
+| Imported | Full git history, under `blog-geodjango/` in this archive |
+
+---
+
+## Original README
+
 Django a python web framework supports geospatial data. In this post, we will setup the geospatial framework of Django which is [GeoDjango](https://docs.djangoproject.com/en/1.10/ref/contrib/gis/). We will utilize PostGIS a plugin for Postgresql as our main geospatial database.
 
 ### Requirements
@@ -32,6 +47,4 @@ Django a python web framework supports geospatial data. In this post, we will se
         }
 5. Apply migrations: `python manage.py migrate`
 
-Finally, we have configured and setup our environment. In the next post, we will enable the `Django admin` together with its mapping and geospatial components. 
-
-
+Finally, we have configured and setup our environment. In the next post, we will enable the `Django admin` together with its mapping and geospatial components.

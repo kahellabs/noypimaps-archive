@@ -1,3 +1,16 @@
+# covideffortsph
+
+| | |
+|---|---|
+| Language | Vue |
+| Last active | 2023-01-05 |
+| Original location | `github.com/noypimaps/covideffortsph` (removed from the organization) |
+| Imported | Full git history, under `covideffortsph/` in this archive |
+
+---
+
+## Original README
+
 # covid-efforts-ph
 
 ## Project setup
